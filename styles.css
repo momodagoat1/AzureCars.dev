@@ -1,0 +1,30 @@
+.portfolio {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  padding: 20px;
+}
+
+.header {
+  background: #35424a;
+  color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+.project {
+  border: 1px solid #dddddd;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.footer {
+  background: #35424a;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
